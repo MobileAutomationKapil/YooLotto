@@ -1,0 +1,2 @@
+# YooLotto
+Automation Code
